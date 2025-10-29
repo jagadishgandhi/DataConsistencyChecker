@@ -3,6 +3,14 @@
 
 **Analysis Date:** Generated using DataConsistencyChecker
 **Dataset:** `PWCSalesHistoryWithTrans100525-101125.txt`
+**Full Interactive Report:** [Data_consistency.html](analysis_output/Data_consistency.html) (includes visualizations)
+
+---
+
+## Quick Links
+
+- [Full HTML Report with Visualizations](analysis_output/Data_consistency.html) - Open in browser for interactive analysis with charts and graphs
+- [Generated Images](analysis_output/) - 7 visualization images showing data patterns and exceptions
 
 ---
 

@@ -1,6 +1,9 @@
 # Data directory
 data/
 
+# Analysis output
+analysis_output/
+
 # Python
 __pycache__/
 *.py[cod]
