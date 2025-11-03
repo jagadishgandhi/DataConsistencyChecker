@@ -1,8 +1,14 @@
 # Data directory
 data/
 
+# Tests Directory
+tests/
+
 # Analysis output
 analysis_output/
+
+# Analysis scripts
+src/
 
 # Python
 __pycache__/
